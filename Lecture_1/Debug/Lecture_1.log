@@ -1,0 +1,5 @@
+﻿  Lecture_1.c
+c:\users\lky94\source\repos\datastructure_rep\lecture_1\lecture_1.c(56): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+c:\users\lky94\source\repos\datastructure_rep\lecture_1\lecture_1.c(57): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+c:\users\lky94\source\repos\datastructure_rep\lecture_1\lecture_1.c(58): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+  Lecture_1.vcxproj -> C:\Users\lky94\source\repos\DataStructure_Rep\Lecture_1\Debug\Lecture_1.exe
